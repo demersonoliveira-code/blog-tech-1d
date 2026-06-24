@@ -1,9 +1,9 @@
 header{
    background-color: black;
-   color:rgb(255, 0, 64)
-   text-alagn:center;
-   max: width 800px;
-   margn:0 auto;
+  text-align: center;
+  color: #c4d5d5;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 main{
